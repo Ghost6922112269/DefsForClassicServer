@@ -1,0 +1,13 @@
+# MajorPatchVersion == 27
+
+uint64    gameId
+int32     templateId
+skillid32 skill
+uint32    actionId
+
+array    targets
+- uint32 arrowId
+- uint64 gameId
+
+array   hits
+- vec3  position
