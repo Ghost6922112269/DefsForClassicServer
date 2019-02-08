@@ -1,0 +1,4 @@
+﻿# MajorPatchVersion == 27
+
+uint64 gameId
+byte   unk1  #type? 0 = timed out, 1 = finish, 3 = out of sight
