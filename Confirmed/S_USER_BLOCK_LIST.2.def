@@ -1,9 +1,0 @@
-count blockList
-offset blockList
-
-array blockList
-- offset name
-- offset myNote
-- uint32 id
-- string name
-- string myNote

@@ -1,7 +1,0 @@
-# MajorPatchVersion == 27
-
-uint64    gameId
-int32     templateId
-skillid32 skill
-uint32    id
-vec3      loc

@@ -1,5 +1,0 @@
-# MajorPatchVersion == 27
-
-uint32    unk1 # always 0?
-skillid32 skill
-byte      type # 0 = passive, 1 = active

@@ -1,5 +1,0 @@
-offset name
-
-int32 unk #1
-uint32 serverId
-string name

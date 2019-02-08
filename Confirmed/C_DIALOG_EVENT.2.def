@@ -1,3 +1,0 @@
-uint32 id
-int32 unk2 #matches unk in S_DIALOG_EVENT
-int32 unk3
