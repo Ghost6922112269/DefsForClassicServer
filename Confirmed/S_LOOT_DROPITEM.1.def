@@ -1,0 +1,4 @@
+uint64 playerGameId
+uint64 npcGameId
+uint64 itemGameId
+byte   success      #always true?

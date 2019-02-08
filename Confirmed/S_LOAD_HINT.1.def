@@ -1,0 +1,3 @@
+array hints
+- int32 huntingZoneId
+- int32 templateId

@@ -1,0 +1,3 @@
+uint64 gameId # same as S_PREPARE_WORKOBJECT
+uint64 id     # same as S_SET_WORKOBJECT
+byte   unk    # always 0?
