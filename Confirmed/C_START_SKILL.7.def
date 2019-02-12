@@ -9,4 +9,6 @@ bool      moving
 bool      continue # true if the previous skill should not trigger S_ACTION_END for the previous skill
                  # (ex. charging skills, Ninja's Impact Bomb interrupting another skill)
 uint64    target
-bool      unk2
+int32     unk1
+int32     unk2
+int32     unk3

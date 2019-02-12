@@ -1,0 +1,2 @@
+int32  unk   # -1 for disabled
+uint64 playerGameId
