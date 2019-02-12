@@ -1,4 +1,4 @@
-# majorPatchVersion == 27
+﻿# majorPatchVersion == 27
 
 uint64    gameId
 vec3      loc
@@ -9,8 +9,8 @@ int32     stage
 float     speed
 uint32    id
 
-array     movement
-- int32    duration
-- float    speed
-- float    unk # always 1?
-- float    distance
+array   movement
+- int32  duration
+- float  speed
+- float  unk # always 1?
+- float  distance

@@ -1,1 +1,1 @@
-int32 type # 0 = Instance, 1 = Battleground, 2 = Matched
+int32 type # 0 = Instance, 1 = Battleground, 2 = Offline, 3 = Matched
