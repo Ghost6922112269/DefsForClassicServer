@@ -1,8 +1,0 @@
-uint32    unk
-uint64    gameId
-int32     templateId
-skillid32 skill
-uint32    id
-uint32    unk1
-uint64    target
-uint32    unk2
