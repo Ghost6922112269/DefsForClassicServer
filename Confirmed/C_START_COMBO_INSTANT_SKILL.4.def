@@ -1,4 +1,4 @@
-# MajorPatchVersion == 27
+# majorPatchVersion == 27
 
 skillid32 skill
 vec3      loc
@@ -7,7 +7,6 @@ angle     w
 array     targets
 - uint32   unk1
 - uint64   target
-- uint32   unk2
 
 array     endpoints
 - vec3     loc
