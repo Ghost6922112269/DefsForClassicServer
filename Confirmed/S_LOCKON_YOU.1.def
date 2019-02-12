@@ -1,0 +1,4 @@
+# MajorPatchVersion == 27
+
+uint64    source
+skillid32 skill

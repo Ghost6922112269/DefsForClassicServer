@@ -1,0 +1,4 @@
+offset memo
+
+uint32 playerid
+string memo

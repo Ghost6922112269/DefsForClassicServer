@@ -1,3 +1,5 @@
+# majorPatchVersion == 27
+
 count  members
 offset members
 
@@ -25,5 +27,4 @@ array  members
 - int32  order # 0..n
 - byte   canInvite # ?
 - uint32 laurel # 0..5 (none, bronze, silver, gold, diamond, champion)
-- int32  awakeningLevel
 - string name
