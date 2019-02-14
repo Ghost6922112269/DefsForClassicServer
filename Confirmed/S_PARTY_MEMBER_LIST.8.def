@@ -26,5 +26,4 @@ array  members
 - uint64 gameId
 - int32  order # 0..n
 - byte   canInvite # ?
-- uint32 laurel # 0..5 (none, bronze, silver, gold, diamond, champion)
 - string name
